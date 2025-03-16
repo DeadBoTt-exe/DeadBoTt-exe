@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Bhaskar
 
 ##  🚀 About Me
-I'm an undergraduate student passionate about Computer Science, with expertise in **Machine Learning, Deep Learning**. I have a strong foundation in **C++, Python**, and a knack for problem-solving. I'm also an experienced **graphic designer**, bringing creativity into my technical projects.
+I'm an UG student passionate about Computer Science, with a little expertise in **Machine Learning, Deep Learning**. I have a strong foundation in **Python, C++** and a bit of **Java**. I also have and a knack for problem-solving. I'm also an experienced **graphic designer**, bringing creativity into my technical projects.
 
 ## 🔥 Areas of Interest
 **Artificial Intelligence & Machine Learning** (Deep Learning, Reinforcement Learning, Computer Vision)
@@ -17,12 +17,11 @@ I'm an undergraduate student passionate about Computer Science, with expertise i
 - **Merge Assistant** 🤖 (AI-powered GitHub Merge Conflict Analyzer with PyQt5)
 
 ## 📚 Learning & Exploration
-I'm currently diving deeper into:
-- **Applied Machine Learning**
-- **Drone Technology & Space Applications** 🚀
+I'm currently learning more about:
+- Deep Learning 🧠 (ANN, CNN, RNN, Transformers, Attention Mechanisms, GANs, Autoencoders, Self-Supervised Learning, Optimization Techniques)
+- Drone Technology & Space Applications 🚀 (Advanced UAV Control Systems, AI for Drone Navigation, Remote Sensing & Satellite Data Processing)
 
 ## 📫 Let's Connect!
-- **Instagram**: (https://www.instagram.com/bhaskar_db/)
 - **LinkedIn**: (https://www.linkedin.com/in/bhaskar-chari/)
+- **Instagram**: (https://www.instagram.com/bhaskar_db/)
 - **Email**: (workwiththeeye@gmail.com)
-
